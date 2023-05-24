@@ -1,6 +1,7 @@
+wide_alu:
   incdirs:
-  - ../register_interface/include
-  - ../register_interface/vendor/lowrisc_opentitan/include
+  - register_interface/include
+  - register_interface/vendor/lowrisc_opentitan/include
   files:
   - rtl/wide_alu_reg_pkg.sv
   - rtl/wide_alu_reg_top.sv
