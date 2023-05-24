@@ -1,0 +1,6 @@
+axi/axi:
+  commit: v0.35.1
+  domain: [cluster, soc]
+register_interface:
+  commit: v0.3.1
+  domain: [soc]
